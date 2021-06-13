@@ -1,7 +1,7 @@
 ### Greeting, I'm Z3usCypher 👋
 
 ![Z3us's GitHub stats](https://github-readme-stats.vercel.app/api?username=TruCypher&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark)
-
+![Z3us's Favorite Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=TruCypher&exclude_repo=AsmDecoding&layout=compact)
 <!--
 **TruCypher/TruCypher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
