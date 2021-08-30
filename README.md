@@ -1,7 +1,6 @@
 ## Greeting, I'm Z3usCypher 👋
 
 🔭 I'm currently collab/working on a project for [ESnkrs LLC](https://esnkrs.com/).<br />
-🌱 Current'y exploring about distributed system and Golang and trying to master concurrency programming.<br />
 
 ## Language
 
