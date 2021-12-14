@@ -9,7 +9,7 @@
 3. Go
 4. Python
 5. SQL
-6. C++
+6. C++ 
 
 ## Framework / Technologies
 
