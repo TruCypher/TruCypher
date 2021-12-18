@@ -1,6 +1,6 @@
 ## Greeting, I'm Z3usCypher 👋
 
-🔭 I'm currently collab/working on a project for [ESnkrs LLC](https://github.com/ESnkrs).<br />    
+🔭 I'm currently collab/working on a project for [ESnkrs LLC](https://github.com/ESnkrs).<br />     
 
 ## Language
 
